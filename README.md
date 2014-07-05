@@ -1,0 +1,1 @@
+jQuery fast plugin
